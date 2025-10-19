@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @bohorquez866<br>- 👀 I’m interested in Technology, books, motorbikes and travelling <br>- 🌱 I’m aTypescript  Fullstack Developer (React & Node)<br>- 📫 How to reach me: <br>   *  info@bohorquez.dev/  <br /> *  https://bohorquez.dev<br>
+- 👋 Hi, I’m @bohorquez866<br>- 👀 I’m interested in Technology, books, motorbikes and travelling <br>- 🌱 I’m aTypescript  Fullstack Developer (React & Node)<br>- 📫 How to reach me: <br>   *  info@bohorquez.dev  <br /> *  https://bohorquez.dev<br>
 
 
 ## 🌐 Socials:
